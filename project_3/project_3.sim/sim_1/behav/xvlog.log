@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_3/project_3.srcs/sources_1/new/cache_2b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cache_2b
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_3/project_3.srcs/sources_1/new/main_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_3/project_3.srcs/sim_1/new/sim_2b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_2b
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_3/project_3.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

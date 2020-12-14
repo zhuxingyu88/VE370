@@ -1,0 +1,45 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/ALU_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/Control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/EX_MEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EX_MEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/Hazard_Detection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Hazard_Detection
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/ID_EX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID_EX
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/IF_ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/Instruction_Memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/MEM_WB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEM_WB
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/Mux_3_1_32bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux_3_1_32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/clock_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/counter_ring_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_ring_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/forwarding_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forwarding_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/fourbit_ssd_num.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fourbit_ssd_num
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/p2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module p2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/pipeline.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeline
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sources_1/new/sign_extention.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sign_extention
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sim_1/new/p2_testbanch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module p2_testbanch
+WARNING: [VRFC 10-2292] extra semicolon is not allowed here in this dialect. Use SystemVerilog mode [D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.srcs/sim_1/new/p2_testbanch.v:47]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ji/20 Fall/ve370/project_2_pipeline/project_2_pipeline.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
